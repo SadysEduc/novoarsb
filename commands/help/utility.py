@@ -39,3 +39,4 @@ async def setup(bot):
         """
         await ctx.message.edit(content=settings_msg)
 
+...
