@@ -1,4 +1,4 @@
-NovoarSB — Pro UI
+NovoarSB — Pro UI ;
 =================
 
 This Electron UI is built to be shipped with your product. It does not include your bot `main.py` or `config.json`.

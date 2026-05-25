@@ -1,6 +1,9 @@
 # Ignorer config.json
 config.json
 
+# Ignorer les fichiers inutiles
+proxies.txt
+heartlog.txt
 # Ignorer tout le dossier database
 commands/pentest/database/*
 __pycache__/
