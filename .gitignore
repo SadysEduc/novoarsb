@@ -1,0 +1,8 @@
+# Ignorer config.json
+config.json
+
+# Ignorer tout le dossier database
+commands/pentest/database/*
+__pycache__/
+*.pyc
+*.log

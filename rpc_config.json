@@ -1,0 +1,52 @@
+{
+  "gta": {
+    "name": "Grand Theft Auto V",
+    "type": "playing",
+    "details": "Braquage de Cayo Perico",
+    "state": "Recherche de joueurs",
+    "assets": {
+      "large_image_url": "https://i.pinimg.com/474x/06/21/9f/06219f680deea246d8dc88a2b8f2c3ab.jpg",
+      "large_text": "Grand Theft Auto V"
+    }
+  },
+  "pornhub": {
+    "name": "Pornhub",
+    "type": "watching",
+    "details": "Clara Morgane",
+    "state": "Regarde une vidéo",
+    "assets": {
+      "large_image_url": "https://i.postimg.cc/PfKQPDB4/pornhub-main-logo-horizontal-1.jpg",
+      "large_text": "Pornhub"
+    }
+  },
+  "roblox": {
+    "name": "Roblox Studio",
+    "type": "playing",
+    "details": "Brookaven",
+    "state": "Dans la maison",
+    "assets": {
+      "large_image_url": "https://stock.wikimini.org/w/images/d/d1/Roblox_logo.jpg",
+      "large_text": "Roblox"
+    }
+  },
+  "minecraft": {
+    "name": "Minecraft Java Edition",
+    "type": "playing",
+    "details": "Survie en hardcore",
+    "state": "Y'a un creeper derrière moi !",
+    "assets": {
+      "large_image_url": "https://i.postimg.cc/j5NT5KgV/minecraft-1-logo-png-transparent.jpg",
+      "large_text": "Minecraft"
+    }
+  },
+  "vscode": {
+    "name": "Visual Studio Code",
+    "type": "playing",
+    "details": "Écriture de scripts Python",
+    "state": "Le code ne marche pas...",
+    "assets": {
+      "large_image_url": "vscode_logo",
+      "large_text": "Visual Studio Code"
+    }
+  }
+}
