@@ -40,3 +40,8 @@ If you want, I can:
 - Add telemetry opt-in, licensing checks, or a licensing/key system (I can sketch how to implement secure license validation).
 - Create a branded theme builder so customers can choose accent colors and fonts.
 
+<<<<<<< HEAD
+v1.4.2
+=======
+---
+>>>>>>> dev
